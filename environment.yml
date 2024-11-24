@@ -1,0 +1,7 @@
+name: chatbot-env
+dependencies:
+  - python=3.9
+  - requests
+  - beautifulsoup4
+  - openai
+  - flask
